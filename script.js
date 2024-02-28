@@ -30,13 +30,13 @@ function displayWaybillDetails() {
 	<th>Final Destination</th>
             </tr>
             <tr>
-                <td><span class="waiting">Waiting</span></td>
+                <td><span class="waiting">Inbound</span></td>
                 <td>Mr. Joe Eaton</td>
                 <td>Mr. Romarick Ahouangan</td>
                 <td>+22956917797</td>
                 <td>Port of Felixstowe</td>
                 <td>Port of Cotonou</td>
-	<td>Universite D’abomey Calavi</td>
+	<td>Universite Dâ€™abomey Calavi</td>
             </tr>
         </table>
     `;
