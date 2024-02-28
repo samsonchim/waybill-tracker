@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waybill Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <form id="waybillForm">
+            <label for="waybillNumber">Enter Waybill Number:</label>
+            <input type="text" id="waybillNumber" name="waybillNumber" required>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="waybillDetails" class="hidden">
+            <!-- Waybill details will be displayed here -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <ul>
+            <li><a href="#">Contact Us</a></li>
+            <li><a href="#">Report an Issue</a></li>
+        </ul>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
