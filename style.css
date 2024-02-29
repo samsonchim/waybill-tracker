@@ -63,10 +63,10 @@ table td, table th {
 }
 
 .waiting{
-background-color: yellow;
+background-color: green;
 padding: 20px;
 border-radius: 10px;
-color: black;
+color: white;
 }
 
 td{
