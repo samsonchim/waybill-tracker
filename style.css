@@ -63,7 +63,7 @@ table td, table th {
 }
 
 .waiting{
-background-color: green;
+background-color: yellow;
 padding: 20px;
 border-radius: 10px;
 color: white;
